@@ -1,0 +1,6 @@
+{
+  "name": "Haider Salon",
+  "description": "Haider Salon (حیدر سیلون) - Professional hair styling, grooming, facial & beard salon in Village Naindowal, Lalamusa. Book online appointments easily.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
